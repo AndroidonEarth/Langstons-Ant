@@ -3,6 +3,8 @@ Langston's Ant Turing machine simulation written in C++
 
 https://en.wikipedia.org/wiki/Langton%27s_ant
 
+## Rules
+
 The rules of Langton’s Ant are very simple: the ant is placed onto the board that is filled with white spaces, and starts moving forward. For  each step forward, the Langton’s ant will follow 2 rules:
 
 - If the ant is on a white space, turn right 90 degrees and change the space to black.
